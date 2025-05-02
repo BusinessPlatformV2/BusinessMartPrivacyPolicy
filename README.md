@@ -1,242 +1,173 @@
 **Privacy Policy**
 
-**Introduction**
+TERMS OF USE
 
-As a customer, client, partner, or private citizen, your privacy and trust in our interactions are important to GDS Business Mart.  This Statement — referred to in the rest of this document as our “Privacy Statement.” – explains how GDS Business Mart protects and maintains corporate data, especially the personally identifiable information of those interacting with our organization.
-This Privacy Statement discloses the information practices for the GDS Business Mart website and services; explains what type of information about our users, clients, customers, and partners is gathered and tracked; and explains how that information is used, shared, disclosed, or otherwise processed offline. It also describes how cookies, location data, and other technologies may be used in our services and software products.
-In this Privacy Statement, the terms “GDS Business Mart,” “we,” “us,” and “our” include our subcontractors and or affiliates. We use the terms “client,” “you,” and “your” to mean any person using an applicable GDS Business Mart platform, engaging in services, or attending related events, including any organization or person using our platform on services on behalf of an organization. This Privacy Statement applies to the processing of information about individuals or entities that we collect when you use our “Platform,” (which means any website, application, dashboard, or services GDS Business Mart offers), and/or at any time you communicate with us. This Privacy Statement does not apply to the information that you may provide to third parties, such as others with whom you may share information about yourself or your company.
+BACKGROUND:
 
-**2. How this Policy Statement Applies**
+These Terms of Use, together with any and all other documents referred to herein, set out the terms of use under which you may use this platform, businessmart.co.zw (“Our Site”).
+Please read these Terms of Use carefully and ensure that you understand them. Your agreement to comply with and be bound by these Terms of Use is deemed to occur upon your first use of Our Site AND/OR You will be required to read and accept these Terms of Use when signing up for an Account.
+If you do not agree to comply with and be bound by these Terms of Use, you have the option to stop using our platform immediately. These Terms of Use do not apply to the sale of goods. Please refer to our Terms of Sale for more information.
 
-This Statement applies:
-When you visit or use our websites, apps and other services, including events, that refer or link to this privacy policy;
-When GDS Business Mart accesses your websites, designated environment, and/or infrastructure for the purpose of providing consulting and contractual services;
-When GDS Business Mart receives or procures data from a third party.
-This Statement may be supplemented by additional privacy statements, terms or notices mutually agreed upon by both parties.
-We will indicate within the engagement process of our contracts, services and other applications what types of personal information are required and those that are requested. You may choose not to submit the requested information, but that may limit or prohibit the services that GDS Business Mart is able to provide to you.
-At all times, GDS Business Mart shall comply with all applicable International, Federal, Regional, and Local Privacy Laws and Regulations.
+1.	Definitions and Interpretation
+1.1	In these Terms of Use, unless the context otherwise requires, the following expressions have the following meanings:
 
-**2.1 Scope of Privacy Statement**
+“Account”	means an account required for a User to access and/or use certain areas of Our Platform, as detailed in Clause 4;
+“Content”	means any and all text, images, audio, video, scripts, code, software, databases, and any other form of information capable of being stored on a device that appears on, or forms part of, Our Platform;
+“User”	means a user of Our Platform;
+“User Content”	means any content submitted to Our Platform by Users including, but not limited to, product information, its reviews, comments, and search history.
+“We/Us/Our”	means Global Development Services , a company registered primarily registered in South Africa under Registration Number 2022/555134/07 whose 100% owned subsidiary is Global Development Services (Zimbabwe) 
+ 
+2.	Information About Us
+2.1	Our platform, businessmart.co.zw, is owned and operated by Global Development Services, a Private Limited company registered in Zimbabwe and subsidiary of GDS South Africa.
+2.2	[We are a member of <<insert name(s) of association(s) etc.>>.]
 
-This Privacy Statement does not apply to information that you provide to third parties, such as other members, including group organizers and network administrators, or to others with whom you may share information about yourself. Disclosure of information to these third parties is subject to the relevant third party’s privacy policy, if any. We are not responsible for any third party’s privacy policy or content, even if we link to those services from our Platform or if we share information with these third parties.
-GDS Business Mart is a data processor and does not fit the definition of a controller except with respect to GDS Business Mart employees’ data. GDS Business Mart employees and administrators are NOT directly responsible for complying with the requirements of applicable EU privacy laws in connection with the information that they obtain.
 
-**3. Data Protection Principles**
+3.	Access to Our Platform
+3.1	Access to Our Platform is free of charge.
+3.2	It is your responsibility to make any and all arrangements necessary in order to access Our Site.
+3.3	Access to Our Site is provided “as is” and on an “as available” basis. We may alter, suspend, or discontinue Our Site (or any part of it) at any time and without notice. We will not be liable to you in any way if Our Site (or any part of it) is unavailable at any time and for any period.
 
-GDS Business Mart complies with the US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and subject to enforcement by the Federal Trade Commission. (https://www.privacyshield.gov/)
-In the context of an onward transfer GDS Business Mart has responsibility for the processing of personal information it receives under the Privacy Shield and subsequently transfers to a third party acting as an agent on its behalf. GDS Business Mart shall remain liable under the Principles of Privacy Shield if its agent processes such personal information in a manner inconsistent with the Principles of Privacy Shield, unless the organization proves that it is not responsible for the event giving rise to the damage.
-GDS Business Mart has adopted the following principles consistent with collection and processing of Personal Data:
-Personal Data shall be processed lawfully, fairly, and in a transparent manner.
-The Personal Data collected will only be those specifically required to fulfill required or requested services. Such data may be collected directly from the Data Subject or provided to GDS Business Mart. Such data will only be processed for that purpose.
-Personal Data shall only be retained for as long as it is required to fulfill contractual requirements, or to provide auditable statistics to our Clients or affiliated Companies.
-Personal Data shall be adequate, relevant, and limited to what is necessary in relation to the purposes for which they are collected and/or processed. Personal Data shall be accurate and, where necessary, kept up to date.
-The Data Subject has the right to request from GDS Business Mart access to and rectification or erasure of their personal data, to object to or request restriction of processing concerning the data, or to the right to data portability.
+4.	Accounts
+4.1	Certain parts of Our Site (including the ability to Sell and Purchase goods through Us) may require an Account in order to access the offered services.
+4.2	You may not create an Account if you are under 16 years of age.
+4.3	When creating an Account, the information you provide must be accurate and complete. If any of your information changes at a later date, it is your responsibility to ensure that your Account is kept up to date.
+4.4	We [require] OR [recommend] that you choose a strong password for your Account, consisting of  alpha numeric, e.g., a combination of lowercase and uppercase letters, numbers, and symbols. It is your responsibility to keep your password safe. [You must not share your Account with anyone else.] If you believe your Account is being used without your permission, please contact Us immediately at help@businessmart.co.zw. We will not be liable for any unauthorised use of your Account.
+4.5	You must not use anyone else’s Account [without the express permission of the User to whom the Account belongs].
+4.6	Any personal information provided in your Account will be collected, used, and held in accordance with your rights and Our obligations under the law of Zimbabwe, as set out in Clause 17.
+4.7	If you wish to close your Account, you may do so at any time. Closing your Account will result in the removal of your information. Closing your Account will also remove access to Specialised Service areas of Our Platform requiring an Account for access.
+4.8	If you close your Account, any User Content, e.g., reviews, comments, etc you have created on Our Platform will be deleted OR anonymised by removing your username and avatar.
 
-**4. Collection and Use of Information**
+5.	Intellectual Property Rights
+5.1	With the exception of User Content (see Clause 6), all Content included on Our Platform and the copyright and other intellectual property rights subsisting in that Content, unless specifically labelled otherwise, belongs to or has been licensed by Us. All Content (including User Content) is protected by applicable Zimbabwean and International Intellectual property laws and treaties.
+5.2	Subject to sub-Clause[s] 5.3 [and 5.6] you may not reproduce, copy, distribute, sell, rent, sub-licence, store, or in any other manner re-use Content from Our Platform unless given express written permission to do so by Us.
 
-We collect information, such as usage statistics, by using cookies, server logs, and similar technologies, if you elect to use these or other certain features as provided. We also collect information from other sources, which may include, but are not limited to:
-Direct interactions and surveys on our websites,
-Employment applications,
-Marketing, customer, partner, and public social engagements,
-Contractual engagements and services,
-Partner data sharing under contractual agreements, and
-Procured data from third parties as applicable.
 
-**4.1 Information You Provide to Us**
+5.3	You may:
+a)	Access, view and use Our Platform in a web browser (including any web browsing capability built into other types of software or app);
+b)	Download Our Platform (or any part of it) for caching;
+c)	Print [one copy of any] page(s) from Our Platform;
+d)	Download extracts from pages on Our Platform; and
+e)	Save pages from Our Platform for later and/or offline viewing.
+5.4	Our status as the owner and author of the Content on Our Platform (or that of identified licensors, as appropriate) must always be acknowledged.
+5.5	You may not re-use any Content printed, saved, or downloaded from Our Platform for commercial purposes without first obtaining a licence from Us (or our licensors, as appropriate) to do so. This does not prohibit the normal access, viewing and use of Our Platform whether by business users or consumers.
+5.6	[Nothing in these Terms of Use limits or excludes the fair dealing provisions of Chapter III of the Copyrights, Designs and Patents Act 1988 ‘Acts Permitted in Relation to Copyright Works’, covering in particular the making of temporary copies; research and private study; the making of copies for text and data analysis for non-commercial research; criticism, review, quotation and news reporting; caricature, parody or pastiche; and the incidental inclusion of copyright material.]
 
-We collect information that you provide directly to us. For example, we collect information that you provide when you create an account, fill out a form, or communicate with us. The types of information that we may collect include:
-Contact details, such as an individual’s name, email address, postal address, social media handle or username, payment method data, and phone number;
-Account login credentials, such as usernames and passwords, password hints, and similar security information;
-Customer information, such as corporate names, employee job titles, contact information, professional background, and qualifications;
-Comments, feedback and other information you provide to us, including interests, communication preferences, and preferred language;
-Any other information that you choose to provide.
+6.	User Content
+6.1	User Content on Our Platform includes (but is not necessarily limited to) all text, images, audio, video, scripts, code, software, databases, and any other form of information capable of being stored on a device that appears on, or forms part of, Our Platform.
+6.2	An Account is required if you wish to publish User Content. Please refer to Clause 4 for more information.
+6.3	You agree that you will be solely responsible for your User Content. Specifically, you agree, represent, and warrant that you have the right to submit the User Content and that all such User Content will comply with Our Acceptable Usage Policy, detailed below in Clause 12.
+6.4	You agree that you will be liable to Us and will, to the fullest extent permissible by law, indemnify Us for any breach of the warranties given by you under sub-Clause 6.3. You will be responsible for any loss or damage suffered by Us as a result of such breach.
+6.5	You (or your licensors, as appropriate) retain ownership of your User Content and all intellectual property rights subsisting therein. When you submit User Content you grant Us an unconditional, non-exclusive, fully transferrable, royalty-free, perpetual, [irrevocable,] worldwide licence to use, store, archive, syndicate, publish, transmit, adapt, edit, reproduce, distribute, prepare derivative works from, display, perform, and sub-licence your User Content for the purposes of operating and promoting Our Site. In addition, you also grant other Users the right to copy and quote your User Content within Our Platform.
+6.6	If you wish to remove User Content from Our Site, the User Content in question will be [deleted] OR [anonymised]. Please note, however, that caching or references to your User Content may not be made immediately unavailable (or may not be made unavailable at all where they are outside of Our reasonable control).
+6.7	We may reject, reclassify, or remove any User Content from Our Site where, in Our sole opinion, it violates Our Acceptable Usage Policy, or if We receive a complaint from a third party and determine that the User Content in question should be removed as a result.
+6.8	We are not responsible for the content or accuracy, or for any opinions, views, or values expressed in User Content. Any such opinions, views, or values are those of the relevant User and do not reflect Our opinions, views, or values in any way.
 
-**4.2 Information from Your Organization**
+7.	No Scraping, Text or Data Mining
+7.1	You may not in any way undertake, enable, permit, authorise, or facilitate any form of web scraping or text or data mining on or with respect to any part of Our Platform.
+7.2	You may not use any part of Our Platform or any data, Content, or information included on Our Platform, for the purposes of developing or training AI models or systems.
+7.3	The prohibition set out in this Clause 7 covers all purposes for which such activities may be carried out including, but not limited to, the development or training of AI models or systems. This includes, but is not limited to, the use of:
+a)	Any bot, robot, scraper, spider, or other automated system, software, algorithm, code, process, tool, or methodology used to access, obtain, copy, or republish any data, Content, or information included on Our Platform; and
+b)	Any automated techniques designed to analyse digital text or data in order to generate information or to develop or train AI models or systems.
+7.4	Sub-Clauses 7.1 to 7.3 shall apply to the fullest extent permissible by law.
 
-We may obtain personal information about you from the organization with which you are employed or affiliated, from which you may have done business, or from which you had previous interactions with, including:
-Contact details, such as your name, provided email address(es), postal address, social media handle, and phone number;
-Other account registration information such as job title; and/or
-Organizational user ID.
+8.	Links to Our Site
+8.1	You may link to Our Platform provided that:
+a)	you do so in a fair and legal manner;
+b)	you do not do so in a manner that suggests any form of association, endorsement or approval on Our part where none exists;
+c)	you do not use any logos or trademarks displayed on Our Platform without Our express written permission; and
+d)	you do not do so in a way that is calculated to damage Our reputation or to take unfair advantage of it.
+8.2	[You may link to any page of Our Platform.]
+OR
+8.2	[You may not link to any page other than the homepage of Our Platform, www.businessmart.co.zw. Deep linking to other pages requires Our express written permission. Please contact Us at infor@businessmart.co.zw for further information.]
+8.3	Framing or embedding of Our Platform on other websites is not permitted without Our express written permission. Please contact Us at tech@businessmart.co.zw for further information. [This does not prohibit the content displayed in link previews that may be automatically generated by certain websites and apps including, but not limited to, social media.]
+8.4	You may not link to Our Platform from any other site the main content of which contains material that:
+a)	is sexually explicit;
+b)	is obscene, deliberately offensive, hateful or otherwise inflammatory;
+c)	promotes violence;
+d)	promotes or assists in any form of unlawful activity;
+e)	discriminates against, or is in any way defamatory of, any person, group or class of persons, race, gender, religion, nationality, disability, sexual orientation, or age;
+f)	is intended or is otherwise likely to threaten, harass, annoy, alarm, inconvenience, upset, or embarrass another person;
+g)	is calculated or is otherwise likely to deceive another person;
+h)	is intended or is otherwise likely to infringe (or to threaten to infringe) another person’s privacy;
+i)	misleadingly impersonates any person or otherwise misrepresents the identity or affiliation of a particular person in a way that is calculated to deceive (obvious parodies are not included in this definition provided that they do not fall within any of the other provisions of this sub-Clause 8.4);
+j)	implies any form of affiliation with Us where none exists;
+k)	infringes, or assists in the infringement of, the intellectual property rights (including, but not limited to, copyright, trademarks, and database rights) of any other party; or
+l)	is made in breach of any legal duty owed to a third party including, but not limited to, contractual duties and duties of confidence.
+8.5	The content restrictions in sub-Clause 8.4 do not apply to content submitted to sites by other users provided that the primary purpose of the site accords with the provisions of sub-Clause 8.4. You are not, for example, prohibited from posting links on general-purpose social networking sites merely because another user may post such content. You are, however, prohibited from posting links on websites which focus on or encourage the submission of such content from users.
 
-**4.3 Information from Other Sources**
+9.	Links to Other Sites
+Links to other sites may be included on Our Platform. Unless expressly stated, these sites are not under Our control. We neither assume nor accept responsibility or liability for the content of third-party sites. The inclusion of a link to another site on Our Site is for information only and does not imply any endorsement of the sites themselves or of those in control of them.
 
-We also may obtain personal data, contact details and other information about you from our affiliates and from other third parties’ information services, including:
-Social networks when you grant permission to others to access your data on one or more networks;
-Service providers that help us determine a location in order to customize certain products to your location;
-Businesses with which we offer co-branded services or engage in joint marketing activities; and/or
-Publicly available sources and data suppliers from which we obtain data to validate or supplement the information we hold.
+10.	Liability and Disclaimers
+10.1	Nothing on Our Platform constitutes advice on which you should rely. It is provided for information purposes only. [Professional or specialist advice should always be sought before taking any action on the basis of any information provided on Our Platform.]
+10.2	Insofar as is permitted by law, We make no representation, warranty, or guarantee that Our Platform will meet your requirements, that it will not infringe the rights of third parties, that it will be compatible with all software and hardware, or that it will be secure.
+10.3	We make reasonable efforts to ensure that the Content on Our Platform is complete, accurate, and up to date. We do not, however, make any representations, warranties or guarantees (whether express or implied) that the Content is complete, accurate, or up to date. Please note that this exception does not apply to information concerning goods for sale through Our Platform. Please refer to Our Terms of Sale for more information.
+10.4	To the fullest extent permissible by law, We accept no liability to any User for any loss or damage, whether foreseeable or otherwise, in contract, tort (including negligence), for breach of statutory duty, or otherwise, arising out of or in connection with the use of (or inability to use) Our Platform or the use of or reliance upon any Content (including User Content) included on Our Platform.
+10.5	If you are a business user, We hereby exclude all implied conditions, warranties, representations, or other terms that may apply to Our Platform or Content. We will not be liable for any loss of profits, sales, business or revenue; loss of business opportunity, goodwill, or reputation; loss of anticipated savings; business interruption; or for any indirect or consequential loss or damage.
+10.6	If you are an individual class of user, [please note that Our Platform is intended for business use only, however] if, as a result of Our failure to exercise reasonable care and skill, any digital content from Our platform damages your device or other digital content belonging to you, you may be entitled to certain legal remedies. For more details on consumer rights, please contact your local Consumer Council Office or Standards Association of Zimbabwe Office.
+10.7	We neither assume nor accept responsibility or liability arising out of any disruption or non-availability of Our Platform resulting from external causes including, but not limited to, ISP equipment failure, host equipment failure, communications network failure, natural events, acts of war, or legal restrictions and censorship.
+10.8	Nothing in these Terms of Use excludes or restricts Our liability for fraud or fraudulent misrepresentation, for death or personal injury resulting from negligence, or for any other forms of liability which cannot be excluded or restricted by law.
+10.9	The limitations of liability included in this Clause 10 apply only to the use of Our Platform and not to the sale of goods, which is governed separately by Our Terms of Sale.
 
-**4.4 Information We May Collect Automatically When You Use the GDS Business Mart Community Platform**
+11.	Viruses, Malware and Security
+11.1	We exercise all reasonable skill and care to ensure that Our Platform is secure and free from viruses and other malware.
+11.2	You are responsible for protecting your hardware, software, data, and other material from viruses, malware, and other internet security risks.
+11.3	You must not deliberately introduce viruses or other malware, or any other material which is malicious or technologically harmful either to or via Our Platform.
+11.4	You must not attempt to gain unauthorised access to any part of Our Platform, the server on which Our Platform is stored, or any other server, computer, or database connected to Our Platform.
+11.5	You must not attack Our Platform by means of a denial-of-service attack, a distributed denial of service attack, or by any other means.
+11.6	By breaching the provisions of sub-Clauses 11.3 to 11.5, you may be committing a criminal offence under the Computer Misuse Act 1990. Any and all such breaches will be reported to the relevant law enforcement authorities, and We will cooperate fully with those authorities by disclosing your identity to them. Your right to use Our Platform will cease immediately in the event of such a breach.
 
-GDS Business Mart may automatically collect information about how you and your device interact with the company, including:
-Log Information: We collect log information about your use of the Platform, including:
-computer, device, and connection information;
-location data;
-browser type and version;
-operating system and other software installed on your device;
-mobile platform and unique device identifier and other technical identifiers;
-error reports and performance data;
-the time, duration, and frequency of your access;
-Platform pages viewed; and
-your IP address.
-Usage data, such as:
-the features you used;
-the settings you selected;
-your URL click stream data, including date and time stamp and referring and exit pages;
-search terms you used, and;
-pages you visited or searched for on the site
-Necessary site activity reflecting your interactions with the site.
+12.	Acceptable Usage Policy
+12.1	You may only use Our Platform in a manner that is lawful and that complies with the provisions of this Clause 12. Specifically:
+a)	you must ensure that you comply fully with any and all local, national, or international laws and/or regulations;
+b)	you must not use Our Platform in any way, or for any purpose, that is unlawful or fraudulent;
+c)	you must not use Our Platform to knowingly send, upload, or in any other way transmit data that contains any form of virus or other malware, or any other code designed to adversely affect computer hardware, software, or data of any kind; and
+d)	you must not use Our Platform in any way, or for any purpose, that is intended to harm any person or persons in any way.
+12.2	When submitting User Content (or communicating in any other way using Our Platform), you must not submit, communicate or otherwise do anything that:
+a)	is sexually explicit;
+b)	is obscene, deliberately offensive, hateful, or otherwise inflammatory;
+c)	promotes violence;
+d)	promotes or assists in any form of unlawful activity;
+e)	discriminates against, or is in any way defamatory of, any person, group or class of persons, race, gender, religion, nationality, disability, sexual orientation, or age;
+f)	is intended or otherwise likely to threaten, harass, annoy, alarm, inconvenience, upset, or embarrass another person;
+g)	is calculated or is otherwise likely to deceive;
+h)	is intended or otherwise likely to infringe (or threaten to infringe) another person’s right to privacy or otherwise uses their personal data in a way that you do not have a right to;
+i)	misleadingly impersonates any person or otherwise misrepresents your identity or affiliation in a way that is calculated to deceive (obvious parodies are not included within this definition provided that they do not fall within any of the other provisions of this sub-Clause 12.2);
+j)	implies any form of affiliation with Us where none exists;
+k)	infringes, or assists in the infringement of, the intellectual property rights (including, but not limited to, copyright, patents, trademarks, and database rights) of any other party; or
+l)	is in breach of any legal duty owed to a third party including, but not limited to, contractual duties and duties of confidence.
+12.3	We reserve the right to suspend or terminate your access to Our Platform if you materially breach the provisions of this Clause 12 or any of the other provisions of these Terms of Use. Specifically, We may take one or more of the following actions:
+a)	suspend, whether temporarily or permanently, your Account and/or your right to access Our Platform;
+b)	remove any User Content submitted by you that violates this Acceptable Usage Policy; 
+c)	issue you with a written warning;
+d)	take legal proceedings against you for reimbursement of any and all relevant costs on an indemnity basis resulting from your breach;
+e)	take further legal action against you as appropriate;
+f)	disclose such information to law enforcement authorities as required or as We deem reasonably necessary; and/or
+g)	any other actions which We deem reasonably appropriate (and lawful).
+12.4	We hereby exclude any and all liability arising out of any actions (including but not limited to those set out above) that We may take in response to breaches of these Terms of Use.
 
-**4.5 Information Collected by Cookies and Other Tracking Technologies**
+13.	Privacy and Cookies
+Use of Our Platform is also governed by Our Data Privacy Policy, [and Our Cookie Policy, available from. [This policy is] OR [These policies are] incorporated into these Terms of Use by this reference.
 
-We and our service providers collect information using various technologies, including cookies and pixel tags (which are also called clear GIFs, web beacons, or pixels.) Cookies are small text files stored on your hard drive or in device memory that help us improve our Platform and your experience, and track usage of our Platform. Cookies help us to store your preferences and settings, help you with signing in, provide targeted promotions, and analyze site operations. Pixel tags are electronic images that may be used in our Platform or emails and that track usage of our Platform and effectiveness of communications.
-Most devices and web browsers are set to accept cookies by default. If you prefer, you may be able to remove or reject cookies. You can learn more about how to block cookies by visiting allaboutcookies.org. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Platform.
-Why we use cookies: Cookies serve a variety of functions, like enabling us to remember certain information you provide to us as you navigate between pages on the Platform. We use cookies for the following purposes:
-Authentication: We use cookies to recognize you if you are logged into our Platform. This lets us personalize your experience on or with the Platform in the ways described below. In addition, we may employ third-party services that may use cookies to help you sign into their services from our Platform.
-Security: We use cookies to support or enable security features we have deployed and to help us detect malicious activity and violations of our Terms of Service. These cookies help us prevent fraudulent use of login credentials.
-Services, features, and preferences: We use cookies to provide functionality and help us deliver our products and services according to your preferences. For example, we use cookies to know which language you prefer and what your communications preferences are, to show you personalized views related to your interests and groups, and to help you fill out forms on the Platform.
-Performance, analytics, and research: We use cookies to help us analyze how the Platform is being accessed and used and to enable us to track the performance of the Platform. This helps us to understand, improve, and research features and content on the Platform. We may also use other services, such as Google Analytics or other third-party services, to assist with analyzing performance on our Platform.
-You can control cookies through your browser’s settings and other tools. However, if you block certain cookies, it will impact the performance of and engagement with our services.  In addition, you may not be able to register, login, or access certain parts or make full use of the site. For more details, access the cookie policy of the specific web page in question.
+14.	Changes to these Terms of Use
+14.1	We may alter these Terms of Use at any time. [If We do so, details of the changes will be highlighted at the top of this page.] Any such changes will become binding on you upon your first use of Our Platform after the changes have been implemented. You are therefore advised to check this page from time to time.
+14.2	In the event of any conflict between the current version of these Terms of Use and any previous version(s), the provisions current and in effect shall prevail unless it is expressly stated otherwise.
 
-**4.6 How We Use Your Information**
+15.	Contacting Us
+To contact Us, please email Us at infor@businessmart.co.zw or service@businessmart.co.zw or through our platform Contact Us page available on through infor@businessmart.co.zw
 
-Depending on how you interact with us and the Service, GDS Business Mart may use information about you in order to:
-Provide, maintain, and improve our Platform, process transactions, develop new products, benefits, and services, and provide technical, product, and other support to the Service to maintain its performance, safety, and security;
-Provide, activate, and manage your access to, and use of, the Service;
-Enhance and improve the Service and our other products, events, and services;
-Offer you custom content and other personalization to make the Service more relevant to your interests and geography;
-Respond to your requests, inquiries, comments and concerns;
-Notify you about changes, updates and other announcements related to the Service and our other products and services;
-Deliver targeted advertisements, promotional messages, notices and other information related to the Service and your interests;
-Provide you with information about products, events and services of ours, our affiliates and third parties such as sponsors;
-Invite you to participate in user testing and surveys as well as drawings, sweepstakes, competitions and similar promotions;
-Identify, monitor, and analyze trends, usage, and activities in connection with our Platform;
-Develop data analysis, including for purposes of research, audit, reporting and other business operations, including determining the effectiveness of our promotional campaigns and evaluating our business performance, or in other ways pursuant to a customer agreement;
-Comply with our legal obligations, resolve disputes, and enforce our agreements;
-Detect, investigate, and prevent fraudulent transactions, abuse, and other illegal activities;
-Protect the rights, property, or safety of others;
-Enforce compliance with our policies;
-Comply with applicable laws and government requests;
-Perform accounting and administrative tasks; and
-Enforce or manage legal claims.
-If you are an administrator of an organization with a contractual agreement to access the Service, we will use your details to communicate with you about your organization’s subscription or agreement and related services. If you supply us with contact information of your colleagues, we may contact those individuals with communications about the Service that may include reference to you.
+16.	Communications from Us
+16.1	If We have your contact details (if, for example, you have an Account) We may from time to time send you important notices by email or through Our Notifications channel. Such notices may relate to matters including, but not limited to, service changes, changes to these Terms of Use, Our Terms of Sale, and changes to your Account.
+16.2	We will never send you marketing emails of any kind without your express consent. If you do give such consent, you may opt out at any time. Any and all marketing emails sent by Us include an unsubscribe link. [Email marketing options can also be changed in Contact Us page from our platform.] If you opt out of receiving emails from Us at any time, it may take up to 3 business days for Us to comply with your request. During that time, you may continue to receive emails from Us.
+16.3	For questions or complaints about communications from Us (including, but not limited to marketing emails), please contact Us at service@businessmart.co.zw or via infor@businessmart.co.zw
 
-**5. Sharing of Information**
-   
-We do not share information about you in any way other than as described in this Privacy Statement.
+17.	Data Protection
+17.1	All personal data that We may use will be collected, processed, and held in accordance with the provisions of the Data Protection Legislation and your rights thereunder.
+17.2	For complete details of Our collection, processing, storage, and retention of personal data including, but not limited to, the purpose(s) for which personal data is used, the legal basis or bases for using it, details of your rights and how to exercise them, and personal data sharing (where applicable), please refer to Our Data Privacy Policy.
+18.	Law and Jurisdiction
+18.1	These Terms of Use, and the relationship between you and Us (whether contractual or otherwise) shall be governed by, and construed in accordance with, Zimbabwean law.
+18.2	If you are a business, any disputes concerning these Terms of Use, the relationship between you and Us, or any matters arising therefrom or associated therewith (whether contractual or otherwise) shall be subject to the exclusive jurisdiction of the courts of Zimbabwe.
+18.3	If you are a consumer, any disputes concerning these Terms of Use, the relationship between you and Us, or any matters arising therefrom or associated therewith (whether contractual or otherwise) shall be subject to the jurisdiction of the courts of Zimbabwe.
 
-**5.1 Your Organization**
 
-If you access the Service through an agreement by your organization, your personal information and certain usage data gathered through the Service may be accessed by or shared with the administrators authorized by your organization for the purposes of usage analysis, usage management and compliance, training course progress, performance and remediation, cost attribution and departmental budgeting.
-
-**5.2 Application Licensor**
-
-If you access a third-party application on the Service through a license agreement with the licensor of that application, personal information relevant that third-party application may be shared with the licensor so that it can provide you access to the application, subject to the terms of its license agreement and privacy policy.
-
-**5.3 Our Group Companies and Service Providers**
-
-Dependent upon the Services provided, we share information with:
-Our affiliates, partners, and contract service providers that provide technology, customer service and other shared services functions; and/or
-Our service providers, suppliers, agents and representatives, including but not limited to: payment processors, customer support, email service providers, event venues and service providers, IT service providers, marketing service providers, research providers, mailing houses and shipping agents;
-We share information with the parties described above in order to process the information as necessary to provide the Service, complete a transaction or fulfill your request or otherwise on our behalf based on our instructions and in compliance with this Statement and any other appropriate confidentiality and security measures.
-
-**5.4 Your Choices**
-
-We may share your personal information with our affiliates and with sponsors, joint venture entities and other third parties, including entities for which we are acting as an agent, licensee, application host or publisher, that wish to send you information about their products and services that may be of interest to you, as determined by your choices in managing your communications preferences and other settings.
-The Service may let you post and share personal information, comments, materials and other content.  Any such contributions that you disclose publicly may be collected and used by others. Please be careful when disclosing personal information in these public areas.
-
-**5.5 Legally Compelled Sharing of Information**
-
-We also will disclose your personal information if we have a good faith belief that such disclosure is necessary to:
-meet any applicable law, regulation, legal process or other legal obligation;
-detect, investigate and help prevent security, fraud or technical issues; and/or
-protect the rights, property or safety of GDS Business Mart, our users, partners, employees or others; and/or
-as part of a corporate transaction, such as a transfer of assets to or an acquisition by or merger with another company.
-
-**7. Communicating with You**
-   
-We may use information about you in order to:
-Respond to your comments, questions, and requests, and provide customer service;
-Communicate with you in accordance with your account settings, about products, services, and events offered by us and others;
-Provide news and information that may be of interest to you;
-Conduct online surveys;
-Contact you about events that are being held near your location; and/or
-Send you technical notices, updates, security alerts and support, and administrative messages.
-
-**9. Processing of Information**
-    
-**7.1 Grounds for Processing**
-
-Under European data protection laws, the processor of your information is Outbox Systems, Inc. If we collect or otherwise process any personal information within the scope of European data protection laws, we may do so for any of the following reasons:
-In order to provide our services in accordance with the applicable GDS Business Mart Terms of Service, Terms and Conditions, and or Master Agreement;
-Where it is in our legitimate interest to do so and not overridden by your rights (for example, for direct marketing, fraud prevention, network and information systems security, responding to your communications, the operation of networks of groups by the network administrators, and improving our Platform;
-To comply with a legal requirement or to perform a contract, or at your request prior to entering into a contract;
-To display it on our Platform according to your member profile and account settings. (We recommend that you check your profile and account settings to ensure that you consent to the information that is visible);
-In connection with operating and improving the Platform or in providing services,
-to assist with certain functions, such as payment processing, email transmission, conducting surveys or contests, data hosting, and some aspects of our technical and customer support. (We take measures to ensure that these service providers access, process, and store information about you only for the purposes we authorize, subject to confidentiality obligations, and per applicable privacy and security laws and regulations);
-where necessary to provide the Service or fulfill a transaction;
-where necessary for our compliance with applicable law or other legal obligation;
-where necessary for the performance of a task carried out in the public interest;
-where necessary to enable our customers to comply with their legal obligations;
-where applicable, with your consent; and/or
-where necessary to operate our business, protect the security of our systems, customers and users, detect or prevent fraud, or fulfill our other legitimate interests as described in sections 2-4 above, except where our interests are overridden by your privacy rights.
-Where we rely on your consent to process personal information, you have the right to withdraw your consent at any time, and where we rely on legitimate interests, you may have the right to object to our processing.
-
-**11. Following the Law and Protecting GDS Business Mart**
-    
-We may access, preserve, and disclose information about you to third parties, including the content of messages, if we believe disclosure is in accordance with or required by applicable law, regulation, legal process, or audits. We may also disclose information about you if we believe that your actions are inconsistent with any GDS Business Mart Terms of Service, or master agreement; if we believe that your actions are inconsistent with related guidelines and policies; if necessary to protect the rights, property, or safety of GDS Business Mart websites or Platforms; or if necessary to prevent fraud or abuse of GDS Business Mart websites or Platforms.
-
-**13. Other Situations**
-
-We may de-identify or aggregate information about you and share it freely in instances where you can no longer be identified. We may also share information about you with your consent, at your direction, or where we are legally entitled to do so.
-
-**14. Security**
-    
-We employ technical and organizational measures designed to appropriately protect your information that is under our control and that we process on your behalf from unauthorized access collection, use, disclosure, copying, modification, or disposal, both during transmission and once we receive it. We store all the information that you provide to us on secure servers. We train our employees regarding applicable data privacy policies and procedures and permit authorized employees to access information on a need-to-know basis, or as required for their role. We use firewalls designed to protect against intruders and test for network vulnerabilities. However, no method of transmission over the Internet or method of electronic storage is completely secure. GDS Business Mart’s measures are aimed at ensuring the integrity, confidentiality, and availability of personal information.
-Where you have a password, which enables you to use our Platform or Community, you are responsible for keeping your passwords complex, secure, and confidential.
-
-**16. Children’s Privacy**
-
-We do not knowingly collect information from children under the age of 13 or target the Service to children under 13.
-
-**17. Data Retention**
-    
-We retain certain information that we collect from you while you are a member of the Platform, and in certain cases, where you have deleted your account, for the following reasons:
-So you can use our Platform;
-To ensure that we do not communicate with you if you have asked us not to;
-To provide you with a refund, if you are so entitled;
-To better understand the traffic to our Platform or websites in order to provide the best possible experience;
-To detect and prevent abuse of our Platform, illegal activities, and breaches of our Terms of Service; and
-To comply with applicable legal, tax, or accounting requirements.
-We retain your personal information for as long as is necessary to provide the Service and fulfill the transactions you have requested, to meet the service obligations of our customers, or for other essential purposes such as complying with our legal obligations, maintaining business and financial records, resolving disputes, maintaining security, detecting and preventing fraud and abuse, and enforcing our agreements. If you access the Service through a contractual agreement or sponsored by your organization, we retain your organizational contact details after the termination of your organization’s subscription to continue to communicate with you.
-When we have no ongoing legitimate business need to process your information, or within the statutorily required time frame, we will either delete or anonymize such information.
-
-**19. Your Communications Preferences**
-    
-You can customize and manage your communications preferences and other settings when you register with GDS Business Mart, by updating your account features and preferences, by using the “opt-out” mechanisms such as “unsubscribe” or other means provided within the communications that you receive, or by contacting us directly. We reserve the right to notify you of changes or updates to the Service whenever necessary.
-
-**16.1 Your Account**
-
-The Service may allow registered users to directly access and review their account information and make corrections or updates upon login at any time. Keeping such information up to date is the responsibility of the user. Registered users may also close their account directly through the Service or by contacting the Service’s customer support.
-
-**21. Your Rights Under This Statement**
-    
-You have the right to access your personal data. We respond to all requests that we receive from individuals who wish to exercise their data protection rights in accordance with applicable data protection laws. You can contact us or request access to your personal data by sending an email to contact@GDS Business Mart.com.
-Rights that you may have, depending on the country in which you live, include:
-Accessing, correcting, updating, or requesting deletion of your information.
-Objecting to the processing of your information, asking us to restrict processing of your information, or requesting the portability of your information.
-Rectification or erasure of your personal information
-Opting out from receiving marketing communications that we send you at any time.
-Withdrawing your consent at any time if we have collected and processed your information with your consent. Withdrawing your consent will not affect the lawfulness of any processing that we conducted prior to your withdrawal, nor will it affect the processing of your information conducted in reliance on lawful processing grounds other than consent.
-Requesting portability of your personal information
-Complaining to a data protection authority about our collection and use of your information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the European Union are available here.
-If you wish to exercise these rights, please submit your request in writing. We will respond to your request consistent with applicable laws. To protect your privacy and security, we may require you to verify your identity.
-
-**23. Changes to This Statement**
-    
-We may update this privacy policy from time to time. Any changes will be posted on this page with an updated revision date. If we make any material changes, we will provide notice through the Service or by other means. In the event of a revision to this Policy, we will provide notice to you by publishing the most current version at www.businessmart.co.zw/privacy-policy and revising the date at the top of this page. If we make any material change to this policy, we will provide additional notice to you, such as by displaying a prominent notice on our Platform.
-
-**25. Contact**
-
-If you have any questions or complaints about this Privacy Policy or how we use your information, please contact us at gdsbusinessmart@gmail.com.
 
